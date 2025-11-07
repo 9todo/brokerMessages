@@ -1,0 +1,511 @@
+Time,Dealer,Chat,Type,Issuer,Coupon,Maturity,Bid Amount,Bid,Offer,Offer amount,Issuer,Coupon,Maturity,Bid Amount,Bid,Offer,Offer amount,Issuer,Coupon,Maturity,Bid Amount,Bid,Offer,Offer amount,Issuer,Coupon,Maturity,Bid Amount,Bid,Offer,Offer amount
+11:24:50,Harshit Sinha,Indian CD  1  yr  ..  55  offer,,indian bank,,1y,,,55,,,,,,,,,,,,,,,,,,,,,,
+11:33:51,Harshit Sinha,"BGH 3rd Feb VD 
+150-200  7.98 offer - 3m 
+ 8.18 offer  - 1 yr",p,bgh,,3m,150,,98,p,bgh,,1y,,,8.18,,,,,,,,,,,,,,,
+11:37:08,Harshit Sinha,"Infina Finance Private Limited CP (MD 29/04/2025)
+8.00/8.05  for  25crs",,infina finance,,29-Apr,25,8,8.05,,,,,,,,,,,,,,,,,,,,,,
+12:11:09,Harshit Sinha,BANK OF BARODA CD 23/05/2025 - 62/63,,bank of baroda,,23-May,,63,62,,,,,,,,,,,,,,,,,,,,,,
+12:13:13,Harshit Sinha,The Federal Bank Limited CD (MD 04/12/2025) 100crs 68 offer,,federal bank,,04-Dec,100,,68,,,,,,,,,,,,,,,,,,,,,,
+12:24:16,Harshit Sinha,2/4 Union bk - 49/52 - 50crs,,union bank,,02-Apr,50,52,49,,,,,,,,,,,,,,,,,,,,,,
+12:26:21,Harshit Sinha,INDIAN BANK CD 10/03/2025 - 23 offer,,indian bank,,10-Mar,,,23,,,,,,,,,,,,,,,,,,,,,,
+12:27:28,Harshit Sinha,AB housing   t+1 over 28 march  bid pl,,ab housing,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:47:18,Harshit Sinha,7 Mar Canara CD offer 7.23%  50 crs  t+1,,canara bank,,07-Mar,50,,23,,,,,,,,,,,,,,,,,,,,,,
+12:47:57,Harshit Sinha,AB housing Primary   VD: 29th Jan over 28th March maturity   Qtm 200crs offer at 7.25%.,p,ab housing,,28-Mar,200,,25,,,,,,,,,,,,,,,,,,,,,,
+12:49:25,Harshit Sinha,BGHPL  3m  @ 8.04 dealt  100cr mkt can add,d,bghpl,,3m,100,,8.04,,bghpl,,3m,,,8.04,,,,,,,,,,,,,,,
+13:31:33,Harshit Sinha,NABARD CD 24/06/2025  - 63 offer 100 crs,,nabard,,24-Jun,100,,63,,,,,,,,,,,,,,,,,,,,,,
+13:43:00,Harshit Sinha,NABARD CD 24/06/2025  - 63 dealt  25crs mkt,d,nabard,,24-Jun,25,,63,,,,,,,,,,,,,,,,,,,,,,
+14:06:01,Harshit Sinha,12 march hdfc   23/25,,hdfc bank,,12-Mar,,25,23,,,,,,,,,,,,,,,,,,,,,,
+14:27:45,Harshit Sinha,BANK OF BARODA CD 23/05/2025 - 62/63,,bank of baroda,,23-May,,63,62,,,,,,,,,,,,,,,,,,,,,,
+15:11:59,Harshit Sinha,BANK OF BARODA CD 23/05/2025 - 62/63,,bank of baroda,,23-May,,63,62,,,,,,,,,,,,,,,,,,,,,,
+15:12:34,Harshit Sinha,7 march canara   23/25  50cr,,canara bank,,07-Mar,,25,23,,,,,,,,,,,,,,,,,,,,,,
+15:46:36,Harshit Sinha,BANK OF BARODA CD 23/05/2025 - 63 offer,,bank of baroda,,23-May,,,63,,,,,,,,,,,,,,,,,,,,,,
+16:03:05,Harshit Sinha,INDIAN BANK CD 23/05/2025 - 65 offer,,indian bank,,23-May,,,65,,,,,,,,,,,,,,,,,,,,,,
+16:05:53,Harshit Sinha,INDIAN BANK CD 23/05/2025 - 65 offer,,indian bank,,23-May,,,65,,,,,,,,,,,,,,,,,,,,,,
+09:08:03,Rahul Yadav,ICICI Bank Limited CD (MD 17/04/2025) 50crs 40/45,,icici bank,,17-04-2025,50,45,40,,,,,,,,,,,,,,,,,,,,,,
+09:12:11,Rahul Yadav,"Kotak Mahindra Bank Limited CD (MD 09/01/2026)
+55/65 t+1",,kotak mahindra bank,,09-01-2026,,65,55,,,,,,,,,,,,,,,,,,,,,,
+09:12:15,Rahul Yadav,"Union Bank of India CD (MD 18/12/2025)
+ 55/65 t+1",,union bank,,18-12-2025,,65,55,,,,,,,,,,,,,,,,,,,,,,
+09:14:21,Rahul Yadav,"4/3   Union cd   50 crs 
+7/3   BOB CD   50 
+ both 7.10 offer",,union bank,,04-03-2025,50,,10,,bank of baroda,,07-03-2025,50,,10,,,,,,,,,,,,,,,
+09:15:59,Rahul Yadav,"3m kotak sec 7.95 offer t0 , 300 crs",p,kotak securities,,3m,300,,95,,,,,,,,,,,,,,,,,,,,,,
+09:18:53,Rahul Yadav,"3m kotak sec 7.95 offer t0 , 300 crs 
+ buzzed you.",p,kotak securities,,3m,300,,95,,,,,,,,,,,,,,,,,,,,,,
+09:20:21,Rahul Yadav,"3m kotak sec 7.95 offer t0 , 300 crs",p,kotak securities,,3m,300,,95,,,,,,,,,,,,,,,,,,,,,,
+09:20:43,Rahul Yadav,"Canara Bank CD (MD 03/09/2025)
+ 55/65t+1",,canara bank,,03-09-2025,,65,55,,,,,,,,,,,,,,,,,,,,,,
+09:21:19,Rahul Yadav,3m I sec ltd   7.90 offer,p,icici securities,,3m,,,90,,,,,,,,,,,,,,,,,,,,,,
+09:21:53,Rahul Yadav,3m I sec ltd   7.90 offer,p,icici securities,,3m,,,90,,,,,,,,,,,,,,,,,,,,,,
+09:26:45,Rahul Yadav,3m Ponawalla FIncorp  31/1   vd    bids pls,p,poonawalla fincorp,,3m,,,,,,,,,,,,,,,,,,,,,,,,,
+09:31:04,Rahul Yadav,1 yr Credila Financial Services Ltd  7.35 offer   31- 3rd feb vd,p,credila financial services,,1y,,,35,,,,,,,,,,,,,,,,,,,,,,
+09:31:24,Rahul Yadav,"Tmfl 3 mths any bids
+Value Thursday 
+Amount 300",p,tata motors finance,,3m,300,,,,,,,,,,,,,,,,,,,,,,,,
+09:32:46,Rahul Yadav,3m ABML  8.05   offer   100 crs  tom vd,p,aditya birla money,,3m,100,,5,,,,,,,,,,,,,,,,,,,,,,
+09:33:52,Rahul Yadav,3m Axis finance    bids pls   t0-t1 200 crs,p,axis finance,,3m,200,,,,,,,,,,,,,,,,,,,,,,,,
+09:35:02,Rahul Yadav,1 yr Hero Fincorp  8.15/8.30,p,hero fincorp,,1y,,30,15,,,,,,,,,,,,,,,,,,,,,,
+09:36:03,Rahul Yadav,LIC hsg cp 18 mar 20 offer 25cr,,lic housing finance,,18-03-2025,25,,20,,,,,,,,,,,,,,,,,,,,,,
+09:37:18,Rahul Yadav,RELIANCE JIO INFOCOMM LTD 17MAR25 CP  offer @ 7.25%,,reliance jio infocomm limited,,17-03-2025,,,25,,,,,,,,,,,,,,,,,,,,,,
+09:37:30,Rahul Yadav,"HDFC Bank Limited CD (MD 19/09/2025)
+ 60/70 t+1",,hdfc bank,,19-09-2025,,70,60,,,,,,,,,,,,,,,,,,,,,,
+09:39:50,Rahul Yadav,BANK OF INDIA 03MAR25 CD  offer @ 23,,bank of india,,03-03-2025,,,23,,,,,,,,,,,,,,,,,,,,,,
+09:45:09,Rahul Yadav,I sec ltd   3m   7.92 dlt   adding more  t0-t1,d,icici securities,,3m,,92,,d,icici securities,,3m,,,92,,,,,,,,,,,,,,,
+09:47:43,Rahul Yadav,Looking to switch  9/10 SIDBI CD,s,sidbi,,09-10-2025,,,,,,,,,,,,,,,,,,,,,,,,,
+09:48:38,Rahul Yadav,early Feb HDFC  40 bid,,hdfc bank,early feb,,,40,,,,,,,,,,,,,,,,,,,,,,,
+09:49:24,Rahul Yadav,"3m TCL 80/88, t1 200 crs",p,tata capital limited,,3m,,88,80,,,,,,,,,,,,,,,,,,,,,,
+09:51:54,Rahul Yadav,"3m TCL 80/88, t1 200 crs  
+3m I sec 92 dlt 200 crs adding more   t0-t1 
+3m Ponawalla Fincorp   7.95 offer  31/1 vd
+3m MOFSL  8.10 offer  
+3m Axis Finance  7.80/7.90 , 200 crs  t0/t1  
+",p,tata capital limited,,3m,,88,80,d,icici securities,,3m,200,92,,d,icici securities,,3m,,,92,p,poonawalla fincorp,,3m,,,95,
+09:53:35,Rahul Yadav,3m Aseem Infra 8.05 offer  4-5 vd  200 crs,p,aseem infra,,3m,200,,5,,,,,,,,,,,,,,,,,,,,,,
+09:54:21,Rahul Yadav,3m ABML CP 8.10 offer   100 crs,p,adiytya birla money,,3m,100,,10,,,,,,,,,,,,,,,,,,,,,,
+09:55:59,Rahul Yadav,"3m Aseem Infra 8.05/8.20  ,  4/2   vd  200 crs",p,aseem infra,,3m,200,20,5,,,,,,,,,,,,,,,,,,,,,,
+09:57:27,Rahul Yadav,"3m KOtak Sec  500 crs    bids pls   , 30/1  vd",p,kotak securities,,3m,500,,,,,,,,,,,,,,,,,,,,,,,,
+10:00:46,Rahul Yadav,3m BOB Cards    95 dlt   75 crs  adding more   25 crs,d,bob cards,,3m,75,95,,p,bob cards,,3m,25,,95,,,,,,,,,,,,,,,
+10:01:58,Rahul Yadav,"Network18 Media & Invst Ltd CP (MD 04/02/2025) offer 125 crs @ 7.40
+Sikka Ports and Terminals Ltd CP (MD 06/02/2025) offer 100 crs @ 7.40",,network18 media,,04-02-2025,125,,40,,sikka ports,,06-02-2025,100,,40,,,,,,,,,,,,,,,
+10:04:50,Rahul Yadav,"3m Kotak Sec   92/95   , 30/1   vd",p,kotak securities,,3m,,95,92,,,,,,,,,,,,,,,,,,,,,,
+10:08:03,Rahul Yadav,"***3m Kotak Sec   90/95   , 30/1   vd",p,kotak securities,,3m,,95,90,,,,,,,,,,,,,,,,,,,,,,
+10:09:56,Rahul Yadav,"Union Bank CD 18/3.. 21/25.. 25crcs, cbc",,union bank,,18-03-2025,25,25,21,,,,,,,,,,,,,,,,,,,,,,
+10:12:58,Rahul Yadav,7 Mar Canara CD 7.22/24 50 crs,,canara bank,,07-03-2025,50,24,22,,,,,,,,,,,,,,,,,,,,,,
+10:14:00,Rahul Yadav,20/2   PNB CD   35/38,,punjab national bank,,20-02-2025,,38,35,,,,,,,,,,,,,,,,,,,,,,
+10:14:45,Rahul Yadav,NABARD CP- 28-Apr-2025 ... 50/60 ... 100 crs  sp,,nabard,,28-04-2025,100,60,50,,,,,,,,,,,,,,,,,,,,,,
+10:15:27,Rahul Yadav,21/2   axis cd  35 offer,,axis bank,,21-02-2025,,,35,,,,,,,,,,,,,,,,,,,,,,
+10:15:37,Rahul Yadav,bob mf    sp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:15:38,Rahul Yadav,nanard',,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:16:54,Rahul Yadav,"18/3  union cd 22/25 , 25 crs",,union bank,,18-03-2025,25,25,22,,,,,,,,,,,,,,,,,,,,,,
+10:20:27,Rahul Yadav,Godrej Housing Finance Limited CP (MD 13/03/2025)   7.40 choicer  50crs,,godrej housing finance,,13-03-2025,50,40,40,,,,,,,,,,,,,,,,,,,,,,
+10:27:37,Rahul Yadav,BOB CD 20/02/2025 - 40crs - can sell at 7.30,,bank of baroda,,20-02-2025,40,,30,,,,,,,,,,,,,,,,,,,,,,
+10:32:06,Rahul Yadav,"The Federal Bank Limited CD (MD 07/08/2025)
+ --125crs bid  pelase",,federal bank,,07-08-2025,125,,,,,,,,,,,,,,,,,,,,,,,,
+10:32:26,Rahul Yadav,"4 march union cd 23 offer 50 cr 
+7 march bob cd 50 cr 22 offer cbc",,union bank,,04-03-2025,50,,23,,bank of baroda,,07-03-2025,50,,22,,,,,,,,,,,,,,,
+10:32:52,Rahul Yadav,calling,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:32:54,Rahul Yadav,bolo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:37:13,Rahul Yadav,hji,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:38:27,Rahul Yadav,"3m TCL  80/85  
+3m Axis Finance   85/90",p,tata capital limited,,3m,,85,80,p,tata capital limited,,3m,,90,85,,,,,,,,,,,,,,,
+10:41:10,Rahul Yadav,"Union Bank of India CD (MD 18/12/2025)
+ 60/65t+1",,union bank,,18-12-2025,,65,60,,,,,,,,,,,,,,,,,,,,,,
+10:41:32,Rahul Yadav,mid fen  PNB CD   40 bid,,punjab national bank,,mid feb,,40,,,,,,,,,,,,,,,,,,,,,,,
+10:41:33,Rahul Yadav,cbc,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:41:41,Rahul Yadav,bolo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:44:17,Rahul Yadav,ABML CP primary    8.15 offer  tom vd  100 crs,p,aditya birla money,,3m,100,,15,,,,,,,,,,,,,,,,,,,,,,
+10:45:07,Rahul Yadav,hji,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:45:11,Rahul Yadav,5/3   boi,,bank of india,,05-03-2025,,,,,,,,,,,,,,,,,,,,,,,,,
+10:45:15,Rahul Yadav,canara cd,,canara bank,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:45:29,Rahul Yadav,6 bpos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:48:20,Rahul Yadav,hu,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:48:31,Rahul Yadav,7/3  canara cd    vs    boi,s,canara bank,,,,,,s,bank of india,,,,,,,,,,,,,,,,,,,,
+10:48:33,Rahul Yadav,5 bps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:48:36,Rahul Yadav,"can  do  
+ buzzed you.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:48:59,Rahul Yadav,"canara cd   vs  canara cd   ho rha hia  
+ buzzed you.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:49:06,Rahul Yadav,"linepls 
+ buzzed you.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:51:56,Rahul Yadav,hi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:51:58,Rahul Yadav,line pls,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:56:43,Rahul Yadav,20/2   HDFC CD  35 offer,,hdfc bank,,20-02-2025,,,35,,,,,,,,,,,,,,,,,,,,,,
+10:57:03,Rahul Yadav,150cr. Punjab National Bank CD (MD 04/02/2025) 7.40% offer,,punjab national bank,,04-02-2025,150,,40,,,,,,,,,,,,,,,,,,,,,,
+09:11:17,kiran bane,7.72 WB SDL Sep 2038   50-100cr  any bid,,WB,7.72,2038,50-100,,,,,,,,,,,,,,,,,,,,,,,,
+09:19:00,kiran bane,8.37 MP SDL 05-Dec-2028   105 cr 6.88-6.92,,MP,8.37,2028,105,92,88,,,,,,,,,,,,,,,,,,,,,,
+09:19:47,kiran bane,7.18 Krn Jan 2033  7.05 -7.08,,KA,7.18,2033,,8,5,,,,,,,,,,,,,,,,,,,,,,
+09:22:21,kiran bane,6.54 32 100cr prc pls,,,6.54,2032,,,,,,,,,,,,,,,,,,,,,,,,,
+09:24:04,kiran bane,"0% 16 june 2030 - 76.49
+0% 19 sep 2030 - 25.16...offer @ 6.85%",,,0,16-Jun-30,76.49,,85,,,0,19-Sep-30,25.16,,85,,,,,,,,,,,,,,,
+09:39:56,kiran bane,6.99 GS 2026….100 crs 6.56-6.62,,,6.99,2026,100,56,62,,,,,,,,,,,,,,,,,,,,,,
+09:47:13,kiran bane,6.54 2032      10-25,,,6.54,2032,,,,,,,,,,,,,,,,,,,,,,,,,
+09:48:44,kiran bane,3m tbil any offer?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:50:43,kiran bane,6.90% GOI Oil Bonds (MD 04/02/2026)...6.88 offer 50 crs,,,6.9,2026,50,,88,,,,,,,,,,,,,,,,,,,,,,
+09:53:26,kiran bane,8.39% Andhra Pradesh SDL (MD 27/01/2026): 6.75/6.80,,AP,8.39,2026,,80,75,,,,,,,,,,,,,,,,,,,,,,
+09:54:02,kiran bane,"91 Days Tbill (MD 24/04/2025)
+..6.35 yld offer",,,,24-Apr,,,35,,,,,,,,,,,,,,,,,,,,,,
+09:57:34,kiran bane,"
+769MPUDAY2026
+821HRUDAY2026
+ any bid",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:01:58,kiran bane,6.90 oil  feb  26  6.90 bid any offer,,,6.9,2026,,90,,,,,,,,,,,,,,,,,,,,,,,
+10:04:00,kiran bane,"
+8.16% GUJARAT SDL 2028 09.05.2028",,GJ,8.16,2028,,,,,,,,,,,,,,,,,,,,,,,,,
+10:08:15,kiran bane,7.22 Guj  14/06/2028  8550 offer 25crs,,GJ,7.22,2028,25,,85.5,,,,,,,,,,,,,,,,,,,,,,
+10:09:13,kiran bane,8.16 guj may 28    6.85/88  100 cr,,GJ,8.16,2028,100,88,85,,,,,,,,,,,,,,,,,,,,,,
+10:11:30,kiran bane,7.22 Guj  14/06/2028   6.8550-6.88  25cr,,GJ,7.22,2028,25,88,85.5,,,,,,,,,,,,,,,,,,,,,,
+10:11:42,kiran bane,692/39  50cr ..  101.29  dlt   50cr .. 26/29,d,,6.92,2039,50,,101.29,,,,,,,,,,,,,,,,,,,,,,
+10:12:35,kiran bane,"8.43% Uttar Pradesh SDL (MD 06/03/2029)
+95 CHOICE",,UP,8.43,2029,,95,95,,,,,,,,,,,,,,,,,,,,,,
+10:16:52,kiran bane,8.00 Kerla april  2028    6.88 offer 120 cr,,KL,8,2028,120,,88,,,,,,,,,,,,,,,,,,,,,,
+10:18:46,kiran bane,"6.95 Karnataka 25th sept 2028 50 crs 
+7.05 Gujarat 27th nov 2028 50 crs offered @ 85 
+any bid pls",,KA,6.95,2028,50,,85,,GJ,7.05,2028,50,,85,,,,,,,,,,,,,,,
+10:27:34,kiran bane,8.37 MP 05-Dec-2028  6.8850-6.91  100cr,,MP,8.37,2028,100,91,88.5,,,,,,,,,,,,,,,,,,,,,,
+10:27:44,kiran bane,8.16 guj may 28    6.86/8750     100 cr,,GJ,8.16,2028,100,87.5,86,,,,,,,,,,,,,,,,,,,,,,
+10:40:59,kiran bane,20 march   6.32 offer 100 cr,,,,20-Mar,100,,32,,,,,,,,,,,,,,,,,,,,,,
+10:43:34,kiran bane,7.23 39 to sell n buy 6.92 39,s,,7.23,2039,,,sell,,,6.92,2039,,buy,,,,,,,,,,,,,,,,
+10:53:50,kiran bane,54 me to buy and sell 64.. 1 bps can pay,s,,,2054,,buy,,,,,2064,,,sell,,,,,,,,,,,,,,,
+10:57:50,kiran bane,6.99 Apr 2026   6.57-6.62  100cr,,,6.99,2026,100,62,57,,,,,,,,,,,,,,,,,,,,,,
+11:06:30,kiran bane,662 2051  6.95 offer   10 cr,,,6.62,2051,10,,95,,,,,,,,,,,,,,,,,,,,,,
+11:12:23,kiran bane,"
+8.29% Kerala SDL (MD 29/07/2025)
+8.29% Haryana SDL (MD 29/07/2025)
+8.27% Kerala SDL (MD 12/08/2025)
+8.29% Gujarat SDL  (MD 26/08/2025)
+8.23% Maharashtra SDL (09/09/2025)
+8.24% Tamilnadu SDL(MD 09/09/2025)
+8.24% Telangana SDL (MD 09/09/2025)
+8.16% Maharastra SDL (23/09/2025)
+7.98% Andhra Pradesh SDL (14/10/2025)
+any bid",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:19:34,kiran bane,FRB  2028  25-45,,,FRB,2028,,25,45,,,,,,,,,,,,,,,,,,,,,,
+11:22:52,kiran bane,7.10 green bond  2028  100 cr any px,,,7.1,2028,100,,,,,,,,,,,,,,,,,,,,,,,,
+11:26:41,kiran bane,8.27 TN 23-12-2025 80 bid,,TN,8.27,2025,,80,,,,,,,,,,,,,,,,,,,,,,,
+11:36:31,kiran bane,10 apr tbill  6.53 offer 50crs,,,,10-Apr,50,,53,,,,,,,,,,,,,,,,,,,,,,
+11:43:07,kiran bane,8.39% Andhra Pradesh SDL (MD 27/01/2026) 78/80,,AP,8.39,2026,,80,78,,,,,,,,,,,,,,,,,,,,,,
+11:47:35,kiran bane,8.20% 24th Sep 2025  ..  105 cr .. bids pl,,,8.2,2025,105,,,,,,,,,,,,,,,,,,,,,,,,
+12:04:59,kiran bane,"8.29% Kerala SDL (MD 29/07/2025) 160cr
+8.29% Haryana SDL (MD 29/07/2025) 20cr
+8.27% Kerala SDL (MD 12/08/2025) 45cr
+8.29% Gujarat SDL  (MD 26/08/2025) 15cr
+
+package 71 offer",,KL,8.29,2025,160,,71,,HR,8.29,2025,20,,71,,KL,8.27,2025,45,,71,,GJ,8.29,2025,15,,71,
+11:11:33,Sushant Ravindran,7.48 Sidbi may 2029 7.42 bid 25cr,,SIDBI,7.48,May-29,25,7.42,,,,,,,,,,,,,,,,,,,,,,,
+11:11:43,Sushant Ravindran,6.80% REC LTD 20-12-2030 offering 25cr @ 7.32 /7.34,,REC,6.8,Feb-30,25,7.34,7.32,,,,,,,,,,,,,,,,,,,,,,
+11:13:45,Sushant Ravindran,"7.58% Larsen & Toubro Ltd NCD (MD 02/05/2025)
+ 57 offer t+1 // t+0",,L&T,7.58,02-05-2025,,,57,,,,,,,,,,,,,,,,,,,,,,
+11:14:02,Sushant Ravindran,7.48 Sidbi may 2029 7.41 bid 25cr,,SIDBI,7.48,May-29,25,7.41,,,,,,,,,,,,,,,,,,,,,,,
+11:14:17,Sushant Ravindran,7.08 IRFC 2034 @ 7.18 offer -,,IRFC,7.08,Jan-34,,,7.18,,,,,,,,,,,,,,,,,,,,,,
+11:15:05,Sushant Ravindran,7.57 lic oct 29..62 offer,,LIC,7.57,Oct-29,,,62,,,,,,,,,,,,,,,,,,,,,,
+11:15:41,Sushant Ravindran,irfc 2034 18/21,,IRFC,,Jan-34,,21,18,,,,,,,,,,,,,,,,,,,,,,
+11:16:26,Sushant Ravindran,7.48 Sidbi may 2029 7.4050 bid,,SIDBI,7.48,May-29,,7.405,,,,,,,,,,,,,,,,,,,,,,,
+11:17:27,Sushant Ravindran,"7.79 REC Nov 2025 , 25 cr bid pls",,REC,7.79,Nov-25,25,,,,,,,,,,,,,,,,,,,,,,,,
+11:17:37,Sushant Ravindran,8.12 Sundaram fin jun 2027 7.68 offer 100cr,,SUNDARAM FIN,8.12,Jun-27,100,,7.68,,,,,,,,,,,,,,,,,,,,,,
+11:18:08,Sushant Ravindran,7.83% SIDBI 24-Nov-2028…25 crs can offer @ 7.43%,,SIDBI,7.8,24-11-2028,25,,7.43,,,,,,,,,,,,,,,,,,,,,,
+11:18:16,Sushant Ravindran,7.58% Larsen & Toubro Ltd NCD (MD 02/05/2025) 7.57 dealt,d,L&T,7.58,02-05-2025,,,7.57,,,,,,,,,,,,,,,,,,,,,,
+11:19:01,Sushant Ravindran,"7.48 Sidbi may 2029 7.4050 bid 25cr
+7.34 Sidbi feb 2029 7.41/7.43 100cr",s,SIDBI,7.48,May-29,25,7.405,,s,sidbi,7.34,Feb-29,100,7.43,7.41,,,,,,,,,,,,,,,
+11:25:42,Sushant Ravindran,7.34 Sidbi feb 2029 7.41 dlt 25cr further 41/42 100cr,d,SIDBI,7.34,Feb-29,25,,41,s,sidbi,7.34,Feb-29,100,42,41,,,,,,,,,,,,,,,
+11:28:47,Sushant Ravindran,7.1600% POWER FINANCE CORP LTD BONDS 24042025 - 7.55 offer,,PFC,7.16,24-04-2025,,,7.55,,,,,,,,,,,,,,,,,,,,,,
+11:31:06,Sushant Ravindran,9.20% Shriram Finance Ltd Tr3 Op 2 NCD (22/05/26) 9% bid 25crs,,SHRIRAM FIN,9.2,22-05-2026,25,9,,,,,,,,,,,,,,,,,,,,,,,
+11:32:10,Sushant Ravindran,7.11 Sidbi feb 2026 Aug IP Annually 7.73 offer 50cr bid pls,,SIDBI,7.11,Feb-26,50,,7.73,,,,,,,,,,,,,,,,,,,,,,
+11:33:57,Sushant Ravindran,8.25 M&M fin mar 2027 7.85 choice 10cr,,m&m fin,8.25,Mar-27,10,7.85,7.85,,,,,,,,,,,,,,,,,,,,,,
+11:35:36,Sushant Ravindran,IRFC 2033 - 24 bid,,IRFC,,01-01-2033,,24,,,,,,,,,,,,,,,,,,,,,,,
+11:38:15,Sushant Ravindran,7.90  Bajaj FInance  NIOV  2025 90/00,,bajaj fin,7.9,Nov-25,,0,90,,,,,,,,,,,,,,,,,,,,,,
+11:38:55,Sushant Ravindran,7.56 LIC jun 2027 7.70 offer 25cr,,lic,7.56,Jun-27,25,,7.7,,,,,,,,,,,,,,,,,,,,,,
+11:39:02,Sushant Ravindran,8.12 sundaram june  2027  70 offer 25 crs,,SUNDARAM FIN,8.12,Jun-27,25,,70,,,,,,,,,,,,,,,,,,,,,,
+11:40:55,Sushant Ravindran,"7.56% LIC HOU FIN LTD 14/06/2027@7.70, for 25cr,",,lic,7.56,14-06-2027,25,,70,,,,,,,,,,,,,,,,,,,,,,
+11:41:23,Sushant Ravindran,8.12 Sundaram fin jun 2027 7.70/7.75 50cr,,SUNDARAM FIN,8.12,Jun-27,50,7.75,7.7,,,,,,,,,,,,,,,,,,,,,,
+11:42:55,Sushant Ravindran,nabard mar 2028 49 offer,,nabard,,Mar-28,,,49,,,,,,,,,,,,,,,,,,,,,,
+11:43:05,Sushant Ravindran,nabard mar 2028 49 offer,,nabard,,Mar-28,,,49,,,,,,,,,,,,,,,,,,,,,,
+12:03:16,Sushant Ravindran,7.11% SIDBI 27-Feb-2026 - 75 / 78 .,,SIDBI,7.11,27-02-2026,,78,75,,,,,,,,,,,,,,,,,,,,,,
+12:03:52,Sushant Ravindran,7.11% SIDBI 27-Feb-2026 - 75 / 78,,SIDBI,7.11,27-02-2026,,78,75,,,,,,,,,,,,,,,,,,,,,,
+12:04:11,Sushant Ravindran,nabard mar 2028 49 dlt..can buy more,d,nabard,,Mar-28,,49,,s,nabard,,Mar-28,,49,,,,,,,,,,,,,,,,
+09:08:37,kiran bane,6.79 2027   50 cr any bid,,,6.79,2027,50,,sell,,,,,,,,,,,,,,,,,,,,,,
+09:09:34,kiran bane,"8.59% KA SDL 06 nov 2025  60 cr
+8.18% TS SDL 13 nov 2025 75 cr
+8.14% KAR 13 nov 2025 130 cr
+8.16 % KA 26 Nov 2025  160 cr
+75 offer",,KA,8.59,2025,60,,75,,TS,8.18,2025,75,,75,,KA,8.14,2025,130,,75,,KA,8.16,2025,160,,75,
+09:13:34,kiran bane,"52 vs 53  1.50 bps to recv
+counter @ parity  
+
+63 vs 64  0.75 bps to pay 
+counter  1 bps",s,,2052,,,,1.5bp,,,,2053,,buy,,,,,2052,,parity,,,,,2053,,,sell,
+09:19:30,kiran bane,7.37 2028   6.64 bid - offer pls,,,7.37,2028,,64,,,,,,,,,,,,,,,,,,,,,,,
+09:20:35,kiran bane,"7.22 TN Jan 35 80 odd crs
+714 tn 27th nov 34 65crs 
+7.09-7.12",,TN,7.22,2035,80 odd,12,9,,TN,7.14,2034,65,12,9,,,,,,,,,,,,,,,
+09:20:59,kiran bane,7.37 2028  6.61 -6.64  sz,,,7.37,2028,,64,61,,,,,,,,,,,,,,,,,,,,,,
+09:21:47,kiran bane,7.38 MP 15/03/2025: 6.55/6.60,,MP,7.38,2025,,60,55,,,,,,,,,,,,,,,,,,,,,,
+09:23:23,kiran bane,"8.59% KA SDL 06 nov 2025  60 cr
+8.18% TS SDL 13 nov 2025 75 cr
+8.14% KAR 13 nov 2025 130 cr
+8.16 % KA 26 Nov 2025  160 cr
+6.75-6.80",,KA,8.59,2025,60,80,75,,TS,8.18,2025,75,80,75,,KA,8.14,2025,130,80,75,,KA,8.16,2025,160,80,75,
+09:24:24,kiran bane,7.38 2027  101.62-101.70  100cr,,,7.38,2027,,101.62,101.7,,,,,,,,,,,,,,,,,,,,,,
+09:26:12,kiran bane,"
+GOVT OF MAHARASHTRA 5.80% 02-02-2025
+GOVT OF GUJARAT 8.07% 11-02-2025
+GOVT OF KARNATAKA 8.06% 11-02-2025
+GOVT TAMIL NADU 8.07% 11/02/2025
+GOVT OF TAMIL NADU 08.06% 25-02-2025
+GOVT WEST BENGAL 8.08% ,25/02/2025
+GOVT KARNATAKA 8.08% ,11/03/2025
+6.55 offer",,MH,5.8,02-Feb-25,,,55,,GJ,8.07,11-Feb-25,,,55,,KA,8.06,11-Feb-25,,,55,,TN,8.07,11-Feb-25,,,55,
+09:31:23,kiran bane,"
+GOVT KARNATAKA 8.08% ,11/03/2025",,KA,8.08,11-Mar-25,,,,,,,,,,,,,,,,,,,,,,,,,
+09:36:05,kiran bane,6.69 MADHYA PRADESH 17 march 25 - 65cr   6.58 -6.65,,MP,6.69,17-Mar-25,65,65,58,,,,,,,,,,,,,,,,,,,,,,
+09:37:29,kiran bane,"7.10/2034 vs 6.79/2034 ,  4.50 bps to pay 100cr",s,,7.1,2034,100,,4.50 bps,,,6.79,2034,100,buy,,,,,,,,,,,,,,,,
+09:38:54,kiran bane,8.08 KA 11/03/2025  60 offer,,KA,8.08,11-Mar-25,,,60,,,,,,,,,,,,,,,,,,,,,,
+09:41:12,kiran bane,8.08 KA 11/03/2025: 6.60/65.. 90crs cbc,,KA,8.08,11-Mar-25,90,65,60,,,,,,,,,,,,,,,,,,,,,,
+09:41:56,kiran bane,2030 gsec and SDL want offer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:44:29,kiran bane,any switch with  6.79 2027 - similar maturity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:45:58,kiran bane,"7.66 GJ 13-Dec-2030 50cr
+
+7.67 TN 13-Dec-2030 30cr
+any bid",,GJ,7.66,13-Dec-30,50,,sell,,TN,7.67,13-Dec-30,30,,sell,,,,,,,,,,,,,,,
+09:46:21,kiran bane,"7.17 Karnataka Jan 2030 60 crs 7.00 offer 
+6.73 Tamil Nadu  May 2030 45 crs 7.00 offer",,KA,7.17,Jan-30,60,,0,,TN,6.73,May-30,45,,0,,,,,,,,,,,,,,,
+09:48:45,kiran bane,"
+6.84%RJSDL02062031
+ 
+6.98%TNSDL14072031",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:53:03,kiran bane,7.38 2027  101.63-101.68  100cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:53:22,kiran bane,6.79 27 me to sell n buy 7.38 27 at parity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:57:34,kiran bane,7.102034 vs 6.79 2034  4.75 vs  5.25 bps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:58:02,kiran bane,6.75 2029 me to sell and buy 7.04 2029   any int,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:58:17,kiran bane,709/54  me to buy and sell 734/64 .. 01.50 bps me to pay .. 100cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:59:13,kiran bane,7.95 2032 me to sell  and i can buy  any other  2032 gsec,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:01:40,kiran bane,"7.22 TN Jan 35 80 odd crs
+714 tn 27th nov 34 65crs 
+7.0950-7.12",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:02:41,kiran bane,"8.01 AP SDL may 2026
+7.65 TN SDL 06 Dec 2027
+6.12 Kar SDL July 2027
+7.44 HR SDL Nov 2027  50cr each  any bid",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:04:07,kiran bane,53 me to buy and sell 54... at parity,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:11:07,kiran bane,6.12 KA July 2027  6.84-6.87   50 cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:20:13,kiran bane,364 Days Tbill (MD 06/03/2025) offer 75 crs @ 6.40,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:22:48,kiran bane,Me to sell 830 2040 and buy 692 2039 - 100 crs ( 3 bps can pay),,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:32:39,kiran bane,91 days 27/2 tbill 70 crs 35 offer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:39:17,kiran bane,7.17 kar  jan  2030   7.02 -7.03  60 cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:42:43,kiran bane,"
+YBL Cutoff Expectation
+Security
+6.79_GS_2031
+6.79_GS_2034
+7.34_GS_2064",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:45:34,kiran bane,"6.82% Chhattisgarh SDL July 07, 2028   40 cr any bid",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:50:27,kiran bane,6.95% Karnataka SDL sept 2028  6.90 -6.92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:51:31,kiran bane,"6.82% Chhattisgarh SDL July 07, 2028 
+40 cr 6.88 offer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:55:41,kiran bane,FRB  2033  56-65,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:17:13,kiran bane,01 may  50-5350  25 cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:24:21,kiran bane,"
+GOVT TAMIL NADU 8.07% 11/02/2025
+GOVT OF MADHYA PRADESH 7.38% 15-03-2025    250cr
+62 offer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:25:24,kiran bane,7.02 2031  63-68  25 cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:26:14,kiran bane,1 may tbill 51 -5350  offer 25 cr,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:27:25,kiran bane,53 vs  54  0.50 bps vs  1 bps,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:29:14,kiran bane,"6.64 GS 2027
+5.74 GS 2026
+7.02 GS 2027
+Need offers for 15 CRS",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:35:06,kiran bane,"709/54 me to buy and sell 730/53 ..  01 bps me to recv 
+counter 0.50 bps",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:39:21,kiran bane,5.15 25 me to sell n buy nearby 100crs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:46:08,kiran bane,FRB 2028 38 / 41  100 crs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:50:45,kiran bane,Sept - Nov 2025  SDL's  .. any offers pl ?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:52:06,kiran bane,"8.59% KA SDL 06 nov 2025  60 cr
+8.18% TS SDL 13 nov 2025 75 cr
+8.14% KAR 13 nov 2025 130 cr
+8.16 % KA 26 Nov 2025  160 cr
+6.77 -6.80",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:02:53,kiran bane,"7.98% KA SDL 14102025  25.49 cr
+7.47% GJ SGS 2025  60 cr
+7.99% KL SDL 28102025 50 cr
+8.00% TN SDL 28102025 10 cr
+8.12% MAHARASHTRA SDL 20 cr
+5.32% CHHATISGARH SDL 100 cr
+6.05% ASSAM SDL 2025 91.3490cr
+7.99% MH SDL 28102025  50 cr
+8.59% KA SDL 2025  60 cr
+8.14% KARNATKA SDL 130 cr
+8.18% TS SDL 2025  75 cr
+8.16 % KA SDL 2025 160 cr
+6.77-6.80",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:04:10,kiran bane,"7.22 TN 35 7.10 dlt, can sell furthr",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12:06:02,kiran bane,GOVT OF RAJASTHAN 7.72% 25-05-2035 - 7.10 -7.13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11:07:45,Harshit Sinha,1 yr kmpl   82 offer,p,kotak mahindra prime,,1y,,,82,,,,,,,,,,,,,,,,,,,,,,
+11:08:03,Harshit Sinha,5 jan kmpl   82 offer  100cr,,kotak mahindra prime,,05-01-2025,100,,82,,,,,,,,,,,,,,,,,,,,,,
+11:11:54,Harshit Sinha,12/9 BOB - 7.61/65 - 100 crs / 50 cr,,bank of baroda,,12-09-2025,100,,61,,bank of baroda,,12-09-2025,50,65,,,,,,,,,,,,,,,,
+11:26:14,Harshit Sinha,18 Dec HDFC CD 62 dlt mkt  Further can sell,d,hdfc bank,,18-12-2025,,,62,,hdfc bank,,18-12-2025,,,62,,,,,,,,,,,,,,,
+11:29:34,Harshit Sinha,12 dec canara   60 dealt  mkt,d,canara bank,,12-12-2025,,,60,,,,,,,,,,,,,,,,,,,,,,
+11:40:06,Harshit Sinha,18 Dec HDFC CD 62 / 64  100crs,,hdfc bank,,18-12-2025,100,64,62,,,,,,,,,,,,,,,,,,,,,,
+11:46:21,Harshit Sinha,INDUSIND BANK CD 06/03/2025  offering at 25,,indusind bank,,06-03-2025,,,25,,,,,,,,,,,,,,,,,,,,,,
+11:46:31,Harshit Sinha,6/3 SIDBI - 25 offer,,sidbi,,06-03-2025,,,25,,,,,,,,,,,,,,,,,,,,,,
+11:48:26,Harshit Sinha,7.1600% POWER FINANCE CORP LTD BONDS 24042025 - 60 offer,,power finance corporation,7.16,24-04-2025,,,60,,,,,,,,,,,,,,,,,,,,,,
+11:56:05,Harshit Sinha,1 yr SIDBI  cd    60/64    500cr bid,p,sidbi,,1y,500,64,60,,,,,,,,,,,,,,,,,,,,,,
+12:02:27,Harshit Sinha,"BARCLAYS INVESTMENTS & LOAN (INDIA) LTD. CP 21/02/2025 offering at 65
+CHOLAMANDALAM INVESTMENT AND FIN CO LTD CP 21/02/2025 dealt at 64 50 crs, selling more",,barclays investments and loan,,21-02-2025,,,65,d,cholamandalam investment & finance,,21-02-2025,50,,64,,cholamandalam investment & finance,,21-02-2025,,,64,,,,,,,,
+12:20:20,Harshit Sinha,Union Bank of India CD (MD 26/03/2025)...7.22% offer 125 crs,,union bank,,26-03-2025,125,,22,,,,,,,,,,,,,,,,,,,,,,
+12:27:12,Harshit Sinha,07 Mar DBS  @ 25 dlt  150 cr  can sell 150cr more,d,dbs bank,,07-03-2025,150,,25,,dbs bank,,07-03-2025,150,,25,,,,,,,,,,,,,,,
+12:33:36,Harshit Sinha,18 dec hdfc cd  63 offer,,hdfc bank,,18-12-2025,,,63,,,,,,,,,,,,,,,,,,,,,,
+12:37:37,Harshit Sinha,18 dec hdfc cd  63 / 64,,hdfc bank,,18-12-2025,,64,63,,,,,,,,,,,,,,,,,,,,,,
+13:10:00,Harshit Sinha,BANK OF BARODA CD 20/02/2025 L 210224  offering @ 23 cbc for 100 crs,,bank of baroda,,20-02-2025,100,,23,,,,,,,,,,,,,,,,,,,,,,
+13:35:44,Harshit Sinha,13 march canara   26 dlt mkt  75cr can sell more,d,canara bank,,13-03-2025,75,,26,,canara bank,,13-03-2025,,,26,,,,,,,,,,,,,,,
+13:35:55,Harshit Sinha,13 march canara   26 dlt mkt  75cr can sell more,d,canara bank,,13-03-2025,75,,26,,canara bank,,13-03-2025,,,26,,,,,,,,,,,,,,,
+13:38:13,Harshit Sinha,13/03 Canara CD 26 dlt ...frther,d,canara bank,,13-03-2025,75,,26,,canara bank,,13-03-2025,,,26,,,,,,,,,,,,,,,
+14:01:44,Harshit Sinha,"Bank of Baroda CD (MD 23/05/2025)
+7.55-7.60 25cr",,bank of baroda,,23-05-2025,25,60,55,,,,,,,,,,,,,,,,,,,,,,
+14:08:22,Harshit Sinha,1 yr indian  60 dlt,d,indian bank,,1y,,60,,,,,,,,,,,,,,,,,,,,,,,
+14:35:04,Harshit Sinha,PUNJAB NATIONAL BANK CD 02/04/2025 offering at 48,,punjab national bank,,02-04-2025,,,48,,,,,,,,,,,,,,,,,,,,,,
+14:40:18,Harshit Sinha,hi,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14:40:28,Harshit Sinha,"anythng in sidbio?
+ buzzed you.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14:45:16,Harshit Sinha,HDFC CD 18 dec 25 mat 7.60/64 100 crs,,hdfc bank,,18-12-2025,100,64,60,,,,,,,,,,,,,,,,,,,,,,
+14:46:46,Harshit Sinha,HDFC CD 18 dec 25 mat 7.61/64 100 crs,,hdfc bank,,18-12-2025,100,64,61,,,,,,,,,,,,,,,,,,,,,,
+15:17:49,Harshit Sinha,hdfc 18 dec 62/ 63 100 cr,,hdfc bank,,18-12-2025,100,63,62,,,,,,,,,,,,,,,,,,,,,,
+15:27:10,Harshit Sinha,1 yr SIDBI  cd    62 dlt prim,d,sidbi,,1y,,,62,,,,,,,,,,,,,,,,,,,,,,
+16:28:17,Harshit Sinha,16-07 bajaj fin cp any bids,,bajaj finance,,16-07-2025,,,,,,,,,,,,,,,,,,,,,,,,,
+16:35:48,Harshit Sinha,Indian Bank CD (MD 23/05/2025) 25crs 58/63,,indian bank,,23-05-2025,25,63,58,,,,,,,,,,,,,,,,,,,,,,
+16:36:00,Harshit Sinha,23-07 bajaj fin cp - 90 offer  50 crs,,bajaj finance,,23-07-2025,50,,90,,,,,,,,,,,,,,,,,,,,,,
+16:37:32,Harshit Sinha,Union Bank of India CD (MD 26/03/2025) 25crs 22 offer,,union bank,,26-03-2025,25,,22,,,,,,,,,,,,,,,,,,,,,,
+16:42:12,Harshit Sinha,Indian Bank CD (MD 23/05/2025) 25crs 60/63,,indian bank,,23-05-2025,25,63,60,,,,,,,,,,,,,,,,,,,,,,
+14:22:50,Tanuja Deri,MOFSL 1 yr  275cr dlt @ 8.31,d,MOFSL,,01-02-2026,275,8.31,,,,,,,,,,,,,,,,,,,,,,,
+14:23:23,Tanuja Deri,"Canara Bank CD (MD 26/12/2025)
+ 57/62 t+1  SP",s,canara,,26-12-2025,,62,57,,,,,,,,,,,,,,,,,,,,,,
+14:31:36,Tanuja Deri,9/10 Axis bank cd 65/70,s,axis bank,,09-Oct,,70,65,,,,,,,,,,,,,,,,,,,,,,
+14:40:30,Tanuja Deri,"NABARD CD MAT 070325, offering at 7.20%, bid pls",s,nabard,,07-03-2025,,,20,,,,,,,,,,,,,,,,,,,,,,
+14:42:49,Tanuja Deri,Indian Bank CD (MD 23/05/2025) 55 offer 100crs,s,indian bank,,23-05-2025,100,,55,,,,,,,,,,,,,,,,,,,,,,
+14:45:53,Tanuja Deri,4 dec hdfc cd  67 bid t+1 50crs,s,hdfc,,04-Dec,50,67,,,,,,,,,,,,,,,,,,,,,,,
+14:47:53,Tanuja Deri,"Primary 
+Mofl 1yr 8.40",p,mofl,,01-02-2026,,,8.4,,,,,,,,,,,,,,,,,,,,,,
+14:52:17,Tanuja Deri,Kotak Bank CD (MD 28/01/2026) 55 offer,s,kotak bank,,28-01-2026,,,55,,,,,,,,,,,,,,,,,,,,,,
+14:53:43,Tanuja Deri,17-Mar-2025 ICICI Bank CD 7.15 offer 50crs,s,icici bank,,17-03-2025,50,,7.15,,,,,,,,,,,,,,,,,,,,,,
+14:55:34,Tanuja Deri,18 mar PNB 20  offer 100cr,s,pnb,,18-Mar,100,,,,,,,,,,,,,,,,,,,,,,,,
+15:21:35,Tanuja Deri,12/03 Nabard CD 50crs 7.21 offer,s,nabard,,12-Mar,50,,7.21,,,,,,,,,,,,,,,,,,,,,,
+15:39:53,Tanuja Deri,"Indian Bank CD (MD 19/01/2026)
+ 58 offer 50crs t+1",s,indian bank,,19-01-2026,50,,58,,,,,,,,,,,,,,,,,,,,,,
+15:48:03,Tanuja Deri,"Kotak Bank CD 21/3.. 15/20.. 25crs,",s,kotak bank,,21-Mar,25,20,15,,,,,,,,,,,,,,,,,,,,,,
+15:52:57,Tanuja Deri,Kotak Bank CD (MD 28/01/2026) 55 dlt,d,kotak bank,,28-01-2026,,55,,,,,,,,,,,,,,,,,,,,,,,
+16:04:50,Tanuja Deri,Indian Bank CD (MD 19/01/2026)  58 / 59 50cr vs 25cr,s,indian bank,,19-01-2026,50,,58,s,indian bank,,19-01-2026,25,59,,,,,,,,,,,,,,,,
+16:11:52,Tanuja Deri,PUNJAB NATIONAL BANK CD 08/01/2026 - 60 offer,s,pnb,,08-01-2026,,,60,,,,,,,,,,,,,,,,,,,,,,
+16:14:56,Tanuja Deri,08/01 PNB 60/65  50cr,s,pnb,,08-01-2026,50,65,60,,,,,,,,,,,,,,,,,,,,,,
+16:15:15,Tanuja Deri,Axis Bank  CD (MD 06/06/2025) 50/60 t+1,s,axis bank,,06-06-2025,,60,50,,,,,,,,,,,,,,,,,,,,,,
+16:17:50,Tanuja Deri,PNB CD 08/01/2026 - 60 dlt  25cr  furher offer,d,pnb,,08-01-2026,25,60,,,,,,,,,,,,,,,,,,,,,,,
+16:23:49,Tanuja Deri,PNB CD (MD 11/12/2025)  58/63 t+1 SP,s,pnb,,11-12-2025,,63,58,,,,,,,,,,,,,,,,,,,,,,
+16:26:22,Tanuja Deri,PNB CD 08/01/2026 - 60 dlt   75cr ..furher offer 25cr,d,pnb,,08-01-2026,75,60,,s,pnb,,08-01-2026,25,,60,,,,,,,,,,,,,,,
+16:28:55,Tanuja Deri,"PNB CD 08/01/2026 - 60 dlt   100cr  ...fuehr offer 100cr 
+PNB CD (MD 11/12/2025)  58/63  SP",d,pnb,,08-01-2026,100,60,,s,pnb,,08-01-2026,100,,60,s,pnb,,11-12-2025,,63,58,,,,,,,,
+16:31:30,Tanuja Deri,PNB  CD 08/01/2026 - 61 offer 100 crs,s,pnb,,08-01-2026,100,,61,,,,,,,,,,,,,,,,,,,,,,
+16:41:29,Tanuja Deri,Mofl 1yr 8.41 dealt  400cr,d,mofl,,01-02-2026,400,8.41,,,,,,,,,,,,,,,,,,,,,,,
+14:31:36,Tanuja Chandragiri,9/10 Axis bank cd 65/70,,Axis Bank,,09-Oct,,70,65,,,,,,,,,,,,,,,,,,,,,,
+14:40:30,Tanuja Chandragiri,"NABARD CD MAT 070325, offering at 7.20%, bid pls",,NABARD,,07-Mar,,,7.2,,,,,,,,,,,,,,,,,,,,,,
+14:42:49,Tanuja Chandragiri,Indian Bank CD (MD 23/05/2025) 55 offer 100crs,,Indian Bank,,23-May,100,,55,,,,,,,,,,,,,,,,,,,,,,
+14:45:53,Tanuja Chandragiri,4 dec hdfc cd  67 bid t+1 50crs,,HDFC Bank,,04-Dec,50,67,,,,,,,,,,,,,,,,,,,,,,,
+14:47:51,Tanuja Chandragiri,"Primary 
+Mofl 1yr 8.40",,MOFL,,,,,8.4,,,,,,,,,,,,,,,,,,,,,,
+14:52:17,Tanuja Chandragiri,Kotak Bank CD (MD 28/01/2026) 55 offer,,Kotak Bank,,28-01-2026,,,55,,,,,,,,,,,,,,,,,,,,,,
+14:53:43,Tanuja Chandragiri,17-Mar-2025 ICICI Bank CD 7.15 offer 50crs,,ICICI Bank,,17-Mar,50,,15,,,,,,,,,,,,,,,,,,,,,,
+14:55:34,Tanuja Chandragiri,18 mar PNB 20  offer 100cr,,PNB,,18-Mar,100,,20,,,,,,,,,,,,,,,,,,,,,,
+15:21:36,Tanuja Chandragiri,12/03 Nabard CD 50crs 7.21 offer,,NABARD,,12-Mar,50,,21,,,,,,,,,,,,,,,,,,,,,,
+15:39:54,Tanuja Chandragiri,"Indian Bank CD (MD 19/01/2026)
+ 58 offer 50crs t+1",,Indian Bank,,19-01-2026,50,,58,,,,,,,,,,,,,,,,,,,,,,
+15:48:03,Tanuja Chandragiri,"Kotak Bank CD 21/3.. 15/20.. 25crs,",,Kotak Bank,,21-Mar,25,20,15,,,,,,,,,,,,,,,,,,,,,,
+15:52:57,Tanuja Chandragiri,Kotak Bank CD (MD 28/01/2026) 55 dlt,D,Kotak Bank,,28-01-2026,,55,,,,,,,,,,,,,,,,,,,,,,,
+16:04:50,Tanuja Chandragiri,Indian Bank CD (MD 19/01/2026)  58 / 59 50cr vs 25cr,,Indian Bank,,19-01-2026,50,,58,,Indian Bank,,19-01-2026,25,59,,,,,,,,,,,,,,,,
+16:11:52,Tanuja Chandragiri,PUNJAB NATIONAL BANK CD 08/01/2026 - 60 offer,,PNB,,08-01-2026,,,60,,,,,,,,,,,,,,,,,,,,,,
+16:14:56,Tanuja Chandragiri,08/01 PNB 60/65  50cr,,PNB,,08-01-2026,,65,60,,,,,,,,,,,,,,,,,,,,,,
+16:15:15,Tanuja Chandragiri,Axis Bank  CD (MD 06/06/2025) 50/60 t+1,,Axis Bank,,06-Jun,,60,50,,,,,,,,,,,,,,,,,,,,,,
+16:17:50,Tanuja Chandragiri,PNB CD 08/01/2026 - 60 dlt  25cr  furher offer,D,PNB,,08-01-2026,,,60,,PNB,,08-01-2026,,,60,,,,,,,,,,,,,,,
+16:23:49,Tanuja Chandragiri,"PNB CD (MD 11/12/2025)  58/63 t+1 SP
+ buzzed you.",,PNB,,11-Dec,,63,58,,,,,,,,,,,,,,,,,,,,,,
+16:26:22,Tanuja Chandragiri,PNB CD 08/01/2026 - 60 dlt   75cr ..furher offer 25cr,D,PNB,,08-01-2026,75,,60,,PNB,,08-01-2026,25,,60,,,,,,,,,,,,,,,
+16:28:55,Tanuja Chandragiri,"PNB CD 08/01/2026 - 60 dlt   100cr  ...fuehr offer 100cr 
+PNB CD (MD 11/12/2025)  58/63  SP",D,PNB,,08-01-2026,100,,60,,PNB,,08-01-2026,100,,60,,PNB,,11-Dec,,63,58,,,,,,,,
+16:31:30,Tanuja Chandragiri,PNB  CD 08/01/2026 - 61 offer 100 crs,,PNB,,08-01-2026,100,,61,,,,,,,,,,,,,,,,,,,,,,
+16:41:29,Tanuja Chandragiri,Mofl 1yr 8.41 dealt  400cr,D,MOFL,,1Y,400,,8.41,,,,,,,,,,,,,,,,,,,,,,
+09:05:12,Virender Bhalwal,8.97 2030 .... 6.70 / 6.7150,,,8.97,2030,,7150,70,,,,,,,,,,,,,,,,,,,,,,
+09:09:54,Virender Bhalwal,7.36 tn Mar 54 looking to sell,,TN,7.36,2054,,,sell,,,,,,,,,,,,,,,,,,,,,,
+09:20:32,Virender Bhalwal,7.34 2064 me to sell & buy 7.46 2073 .... .0.50 bps can rec counter is of parity FRB 28 42 paisa offer 250 crs 100crs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:21:06,Virender Bhalwal,FRB 28  100.42 paisa offer 250 crs,,,FRB,2028,250,,100.42,,,,,,,,,,,,,,,,,,,,,,
+09:21:21,Virender Bhalwal,7.34 2064 me to sell & buy 7.46 2073 .... .0.50 bps can rec,s,,7.34,2064,,,.5bp,,,7.46,2073,,buy,,,,,,,,,,,,,,,,
+09:22:14,Virender Bhalwal,FRB 28  100.36 / 100.42  250 crs  offer bid  50 crs,,,FRB,2028,,100.36,100.42,,,,,,,,,,,,,,,,,,,,,,
+09:24:34,Virender Bhalwal,"
+7.23 20239 to sell & buy 6.92 2039 .... 0.50bps can pay
+
+7.88 2030 me to sell and buy 7.17 2030  25 crs .... can pay 1 bp",,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:28:01,Virender Bhalwal,7.18 2037 me to sell & buy  7.23 2039,s,,7.18,2037,,,sell,,,7.23,2039,,buy,,,,,,,,,,,,,,,,
+09:29:12,Virender Bhalwal,8% tn sdl 28 Oct 2027 10 crs  6.76 / 6.77,,TN,8,28-Oct-27,10,77,76,,,,,,,,,,,,,,,,,,,,,,
+09:31:21,Virender Bhalwal,8.97 2030 6.70 / 6.7125 for size,,,8.97,23,,7125,70,,,,,,,,,,,,,,,,,,,,,,
+09:41:52,Virender Bhalwal,6.19 2034 me to sell & buy 7.18 2037,s,,6.19,2034,,,sell,,,7.18,2037,,buy,,,,,,,,,,,,,,,,
+09:42:26,Virender Bhalwal,18 Jul and 24 Jul t bill looking to sell,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+09:46:14,Virender Bhalwal,5.22 2025 6.65 bid 200 crs,,,5.22,2025,200,65,,,,,,,,,,,,,,,,,,,,,,,
+09:51:48,Virender Bhalwal,8.15 mh sdl Apr 2030 .... 6.97 / 7.01 .... 116 odd crs,,MH,8.15,2030,116 odd,1,97,,,,,,,,,,,,,,,,,,,,,,
+10:04:17,Virender Bhalwal,8.15 mah sdl apr 2030 .... 6.97 / 7.00,,MH,8.15,2030,,0,97,,,,,,,,,,,,,,,,,,,,,,
+10:06:59,Virender Bhalwal,3 mnth t bill looking to buy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:11:40,Virender Bhalwal,6.10 2031 .. 50crs any px?,,,6.1,2031,,,,,,,,,,,,,,,,,,,,,,,,,
+10:12:03,Virender Bhalwal,1 yr t bill looking to buy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10:29:17,Virender Bhalwal,8.30 2040 .... 6.84 offer 100 - 125 crs,,,8.3,2040,100,,84,,,,,,,,,,,,,,,,,,,,,,
+10:30:21,Virender Bhalwal,"6.68 2031 - 6.67 offer - 30 crs
+8.33 2036 - 6.8150 offer - 35 crs
+7.62 2039 - 6.8250 offer - 10 crs
+0.00% Gsec 12-Mar-2026 - 6.70% offer - 25.024 cr",,,6.68,2031,30,,67,,,8.33,2036,35,,8150,,,7.62,2039,10,,8250,,,0,12-Mar-26,25.024,,70,
+10:42:08,Virender Bhalwal,8.30 2040 6.84 / 6.90,,,8.3,2040,,90,84,,,,,,,,,,,,,,,,,,,,,,
+10:56:34,Virender Bhalwal,7.18 tn sdl July 2027 .... 6.865 bid,,TN,7.18,Jul-27,,8650,,,,,,,,,,,,,,,,,,,,,,,
+10:57:23,Virender Bhalwal,"7.15 TN nov 2027 100-150crs.. 
+7.82 KA dec 2027 75crs.. 
+7.65 KA dec 2027 .50crs .. 6.83/6.8650",,TN,7.15,Nov-27,100,8650,83,,KA,7.82,Dec-27,75,8650,83,,KA,7.65,Dec-27,50,8650,83,,,,,,,,
+11:18:54,Virender Bhalwal,"7.65 TN dec 2027 ... 90crs .. 6.85 offer
+
+7.64 GJ 08/11/2027 ... 6.85 offer",,TN,7.65,Dec-27,90,,85,,GJ,7.64,Nov-27,,,85,,,,,,,,,,,,,,,
+11:23:45,Virender Bhalwal,7.65 TN dec 2027 .. 90crs ... 6.85 / 6.87,,TN,7.65,Dec-27,90,87,85,,,,,,,,,,,,,,,,,,,,,,
+11:25:28,Virender Bhalwal,7.65 TN dec 2027 .. 90crs ... 6.86 / 6.87,,TN,7.65,Dec-27,90,87,86,,,,,,,,,,,,,,,,,,,,,,
+13:11:03,Sreejit Kumar,Reliance Jio Infocomm Limited CP (MD 13/03/2025) dlt @ 7.19%... can sell last 50 crs,d,reliance jio infocomm,,13-03-2025,,7.19,,,reliance jio infocomm,,13-03-2025,50,,7.19,,,,,,,,,,,,,,,
+13:12:48,Sreejit Kumar,17/11 EXIM CP   53 offer 50crs t+0 /t+1. cbc,,exim,,17-11-2025,50,,53,,,,,,,,,,,,,,,,,,,,,,
+13:14:29,Sreejit Kumar,03 M TCL 65 choice 200/100 cr cbc,p,tata capital,,3m,200,,65,p,tata capital,,3m,100,65,,,,,,,,,,,,,,,,
+13:14:58,Sreejit Kumar,11/2 RRVL - 17 offer,,reliance retail ventures,,11-02-2025,,,17,,,,,,,,,,,,,,,,,,,,,,
+13:15:41,Sreejit Kumar,3 sept canara cd 7.51/53 100cr,,canara bank,,03-09-2025,100,53,51,,,,,,,,,,,,,,,,,,,,,,
+13:17:21,Sreejit Kumar,24 june hdfc 50 bid 50cr t1,,hdfc bank,,24-06-2025,50,50,,,,,,,,,,,,,,,,,,,,,,,
+13:22:30,Sreejit Kumar,Aditya Birla Finance Limited CP (MD 25/02/2025)...7.40 offer 25 crs,,aditya birla finance,,25-02-2025,25,,40,,,,,,,,,,,,,,,,,,,,,,
+13:24:20,Sreejit Kumar,"7.16% PFC 24/4/25 offered @ 7.40.. 50crs, ny bids ?",,power finance corporation,7.16,24-04-2025,50,,40,,,,,,,,,,,,,,,,,,,,,,
+13:24:48,Sreejit Kumar,02/04 PNB CD 100crs 43 offer,,punjab national bank,,02-04-2025,100,,43,,,,,,,,,,,,,,,,,,,,,,
+13:27:23,Sreejit Kumar,INDIAN BANK CD 10/03/2025  ( L 121224) bidding @ 7.05 cbc,,indian bank,,10-03-2025,,5,,,,,,,,,,,,,,,,,,,,,,,
+13:28:21,Sreejit Kumar,28/2 Tata steel - 10 offer,,tata steel,,28-02-2025,,,10,,,,,,,,,,,,,,,,,,,,,,
+13:28:35,Sreejit Kumar,Can Sell: Union Bank CD -MD - 25-Feb-2025 (20 crs) @7.05 - T0,,union bank,,25-02-2025,20,,5,,,,,,,,,,,,,,,,,,,,,,
+13:28:42,Sreejit Kumar,28/2 Tata steel - 10 offer - 250cr,,tata steel,,28-02-2025,250,,10,,,,,,,,,,,,,,,,,,,,,,
+13:30:17,Sreejit Kumar,CANARA BANK CD 06/03/2025 - 95/00,,canara bank,,06-03-2025,,0,95,,,,,,,,,,,,,,,,,,,,,,
+13:31:07,Sreejit Kumar,20-Feb BOB CD can sell 100crs at 7,,bank of baroda,,20-02-2025,100,,0,,,,,,,,,,,,,,,,,,,,,,
+13:31:36,Sreejit Kumar,20-Feb BOB CD can sell 100crs at 7,,bank of baroda,,20-02-2025,100,,0,,,,,,,,,,,,,,,,,,,,,,
+13:34:01,Sreejit Kumar,20-Feb BOB CD sold at 7%. Can sell more 75crs,d,bank of baroda,,20-02-2025,25,,0,,bank of baroda,,20-02-2025,75,,0,,,,,,,,,,,,,,,
+13:34:59,Sreejit Kumar,4 march EXIM - 95 offeer,,exim bank,,04-03-2025,,,95,,,,,,,,,,,,,,,,,,,,,,
+13:37:00,Sreejit Kumar,12/3 sidci cp - 00 offer,,sidbi,,12-03-2025,,,0,,,,,,,,,,,,,,,,,,,,,,
+13:37:45,Sreejit Kumar,11 feb rrvl 7.25 offer,,reliance retail ventures,,11-02-2025,,,25,,,,,,,,,,,,,,,,,,,,,,
+13:38:34,Sreejit Kumar,7/03 Kotak CD 25crs 7% offer - T+0,,kotak mahindra bank,,07-03-2025,,,0,,,,,,,,,,,,,,,,,,,,,,
+13:42:59,Sreejit Kumar,12/3 SIDBI - 00 offer,,sidbi,,12-03-2025,,,0,,,,,,,,,,,,,,,,,,,,,,
+13:43:57,Sreejit Kumar,18-Feb Indus CD 100crs can sell at 7%,,indusind bank,,18-02-2025,100,,0,,,,,,,,,,,,,,,,,,,,,,
+13:44:36,Sreejit Kumar,27/2 Axis Bank 100crs 6.98 offer-,,axis bank,,27-02-2025,100,,98,,,,,,,,,,,,,,,,,,,,,,
+13:45:18,Sreejit Kumar,"Bank of Baroda CD (MD 25/02/2025)
+225crs can sell  @ 6.90%",,bank of baroda,,25-02-2025,225,,90,,,,,,,,,,,,,,,,,,,,,,
+13:50:33,Sreejit Kumar,ICICI SECURITIES LTD CP - 11-Feb-2025 .. 50 crs ..... 7.40 offer,,icici securities,,11-02-2025,50,,40,,,,,,,,,,,,,,,,,,,,,,
+13:54:55,Sreejit Kumar,28/2 Axis - 95 offer 100cr,,axis bank,,28-02-2025,100,,95,,,,,,,,,,,,,,,,,,,,,,
+13:55:35,Sreejit Kumar,28/2 AXIS CD - 97 offer,,axis bank,,28-02-2025,100,,97,,,,,,,,,,,,,,,,,,,,,,
+13:57:54,Sreejit Kumar,17/11 EXIM cp dlt @ 53 25crs...can sell 25crs more cbc,d,exim bank,,17-11-2025,25,,53,,exim bank,,17-11-2025,25,,53,,,,,,,,,,,,,,,
+13:58:02,Sreejit Kumar,21-Feb Axis CD dlt at 7%. Can sell more 100crs,d,axis bank,,21-02-2025,,,0,,axis bank,,21-02-2025,25,,0,,,,,,,,,,,,,,,
+14:00:27,Sreejit Kumar,21-Feb Axis CD 100cr dlt at 7%. Can sell more 75crs,d,axis bank,,21-02-2025,100,,0,,axis bank,,21-02-2025,75,,0,,,,,,,,,,,,,,,
+14:45:13,Sreejit Kumar,17/11 EXIM cp dlt @ 53 25crs...can sell 25crs more cbc T+0/T+1,d,exim bank,,17-11-2025,25,,53,,exim bank,,17-11-2025,25,,53,,,,,,,,,,,,,,,
+10:33:49,Bhargav Dave,7.59% REC May 2027 ..43/44  ..25cr,s,REC,7.59,May-27,25,44,43,,,,,,,,,,,,,,,,,,,,,,
+10:34:46,Bhargav Dave,7.59% REC May 2027   43  dlt   25cr,d,REC,7.59,May-27,25,,43,,,,,,,,,,,,,,,,,,,,,,
+10:36:21,Bhargav Dave,7.95 REC MARCH 27 can sell and buy REC Dec 2027 25crs,s,rec,7.95,Mar-27,,,,s,rec,,Dec-27,,,,,,,,,,,,,,,,,,
+10:37:40,Bhargav Dave,7.5 NABARD Aug 26 62/64 ...50cr,s,nabard,7.5,Aug-26,50,64,62,,,,,,,,,,,,,,,,,,,,,,
+10:44:59,Bhargav Dave,7.25 SIDBI July 2025 offer @ 7.75 - 50crs,s,sidbi,7.25,Jul-25,50,,75,,,,,,,,,,,,,,,,,,,,,,
+10:45:00,Bhargav Dave,7.25 SIDBI July 2025 offer @ 7.75 - 50crs,s,sidbi,7.25,Jul-25,50,,75,,,,,,,,,,,,,,,,,,,,,,
+10:48:52,Bhargav Dave,7.56% LIC June 27 - 68/73 for 50 crs,s,lic,7.56,Jun-27,50,73,68,,,,,,,,,,,,,,,,,,,,,,
+10:50:50,Bhargav Dave,7.70 NABARD Sept 2027 51/52,s,nabard,7.7,Sep-27,,52,51,,,,,,,,,,,,,,,,,,,,,,
+10:53:11,Bhargav Dave,7.80 Nabard Mar 27 52/54 25cr cbc,s,nabard,7.8,Mar-27,,54,52,,,,,,,,,,,,,,,,,,,,,,
+10:53:40,Bhargav Dave,can sell  8.30 rec apr  2025 and buy  pfc 2026,s,rec,8.3,Apr-25,,,,s,pfc,,2026,,,,,,,,,,,,,,,,,,
+10:56:06,Bhargav Dave,Can sell 8.42% Godrej Industries NCD (MD 27/12/2027) - 5cr - 8.08 offer,s,godrej ind,8.42,27-12-2027,5,,8.08,,,,,,,,,,,,,,,,,,,,,,
+10:57:27,Bhargav Dave,can Buy 7.75 SIDBI 10.06.2027 @7.53...25 Cr..cbc,s,sidbi,7.75,10-06-2027,25,7.53,,,,,,,,,,,,,,,,,,,,,,,
+10:58:26,Bhargav Dave,LIC jan 2026  75 / 80  cbc,s,lic,,Jan-26,,80,75,,,,,,,,,,,,,,,,,,,,,,
+11:04:00,Bhargav Dave,"7.70 NABARD Sept 2027 ; 52 choice , offer for t+0 5crs vs bid 25crs",s,nabard,7.7,Sep-27,5,,52,s,nabard,7.7,Sep-27,25,52,,,,,,,,,,,,,,,,
+11:04:01,Bhargav Dave,"7.70 NABARD Sept 2027 ; 52 choice , offer for t+0 5crs vs bid 25crs",s,nabard,7.7,Sep-27,5,,52,s,nabard,7.7,Sep-27,25,52,,,,,,,,,,,,,,,,
+11:05:26,Bhargav Dave,"7.70 NABARD Sept 2027 ; 52 choice , offer for t+0 5crs vs bid 25crs t+0",s,nabard,7.7,Sep-27,5,,52,s,nabard,7.7,Sep-27,25,52,,,,,,,,,,,,,,,,
+11:08:01,Bhargav Dave,can Buy 7.79 SIDBI 14.05.2027 @7.53...25 Cr...cbc,s,sidbi,7.79,14-05-2027,25,53,,,,,,,,,,,,,,,,,,,,,,,
+11:08:27,Bhargav Dave,nabard sept 2027   51 / 52   25cr,s,nabard,,Sep-27,25,52,51,,,,,,,,,,,,,,,,,,,,,,
+11:08:27,Bhargav Dave,nabard sept 2027   51 / 52   25cr,s,nabard,,Sep-27,25,52,51,,,,,,,,,,,,,,,,,,,,,,
+11:14:19,Bhargav Dave,7.1600% POWER FINANCE CORP LTD BONDS 24042025 7.50% offer 25 cr,s,pfc,7.16,24-04-2025,25,,7.5,,,,,,,,,,,,,,,,,,,,,,
+11:18:56,Bhargav Dave,5.70% NABARD 31JUL25 NCD  offer @ 70,s,nabard,5.7,31-07-2025,,,70,,,,,,,,,,,,,,,,,,,,,,
+11:19:28,Bhargav Dave,"8.00 Nexus Select Trust June 2028, Call 2027 any bid?",s,nexus,8,Jun-28,,,,,,,,,,,,,,,,,,,,,,,,,
+11:20:34,Bhargav Dave,LiC oct 2027   68  offer 50cr  passing  72  bid,s,lic,,Oct-27,50,,38,,,,,,,,,,,,,,,,,,,,,,
+11:24:04,Bhargav Dave,"7.25% IRFC 17/01/2035@7.18, for 25cr",s,irfc,7.25,17-01-1935,25,,7.18,,,,,,,,,,,,,,,,,,,,,,
+11:35:41,Bhargav Dave,7.14 EXIM Dec 2029 22 bid,s,exim,7.14,sec-29,,22,,,,,,,,,,,,,,,,,,,,,,,
+11:36:46,Bhargav Dave,exim mar 29 20 offer 50 cr,s,exim,,Mar-29,50,,20,,,,,,,,,,,,,,,,,,,,,,
+11:38:54,Bhargav Dave,"7.74% LIC Hsg Fin NCD Tr 448 (MD 22/10/2027)
+7.68   mrkt  got  7.72 bid now  cbc",s,lic,7.74,22-10-2027,,7.72,,,,,,,,,,,,,,,,,,,,,,,
+11:50:32,Bhargav Dave,7.1700% POWER FINANCE CORP LTD BONDS 22052025 60 offer 25 cr,s,pfc,7.17,22-05-2025,25,,60,,,,,,,,,,,,,,,,,,,,,,
+11:50:35,Bhargav Dave,7.1700% POWER FINANCE CORP LTD BONDS 22052025 60 offer 25 cr,s,pfc,7.17,22-05-2025,25,,60,,,,,,,,,,,,,,,,,,,,,,
